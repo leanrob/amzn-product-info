@@ -1,0 +1,11 @@
+selenium
+Flask
+flask-blueprint
+sqlalchemy
+sqlalchemy_utils
+python-dotenv
+psycopg2-binary
+flask_login
+marshmallow
+flask_sqlalchemy
+flask-cors
