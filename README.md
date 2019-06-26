@@ -76,6 +76,7 @@ source /.virtualenvs/jungle-scout-code/bin/activate
 This sets up the schema in your db
 
 ```bash
+pip install -r requirments.txt
 python bootstrap.py
 ```
 
