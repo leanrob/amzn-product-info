@@ -166,7 +166,7 @@ In the interest of time and asthetics I have decided to use a theme that I have 
 
 Isomorphic https://themeforest.net/item/isomorphic-react-redux-admin-dashboard/20262330
 
-If if this quick product spike was something that we wnated to put into production then it should be designed from the ground up to
+If if this quick product spike was something that we wanted to put into production then it should be designed from the ground up to
 - Match the design asthetics of the Jungle Scouts apps
 - Match the design standards
 - Be designed with user experince in front of mind
